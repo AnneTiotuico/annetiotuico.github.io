@@ -2941,7 +2941,7 @@ input, select, textarea {
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/rizki-dwi-yd1wWWilf4o-unsplash.jpg");
 		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-size: cover,							cover,							cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
@@ -3137,7 +3137,7 @@ input, select, textarea {
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/rizki-dwi-yd1wWWilf4o-unsplash.jpg");
 		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-size: cover,							cover,							cover;
 		text-align: center;
 	}
 
